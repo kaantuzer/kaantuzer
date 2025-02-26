@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kaan Tüzer</h1>
-<h3 align="center">A passionate Frontend Developer</h3>
+<h3 align="center">A passionate Frontend Developer Student</h3>
 
 - 🌱 I’m currently learning **Front-End Development & Data Analysis (Python)**
 
