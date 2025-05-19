@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaan Tüzer</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
 
-- 🌱 I’m currently learning **Front-End Development & Data Analysis (Python))**
+- 🌱 I’m currently learning **Front-End Development(React) ,Back-End Development(NodeJs,ASP.Net Core 9.0)**
 
 - 📫 How to reach me **kaantzer@hotmail.com**
 
